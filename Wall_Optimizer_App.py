@@ -7,8 +7,8 @@ import urllib.error
 # --- CONFIGURATION ---
 SCRAP_THRESHOLD = 4.00 
 
-st.set_page_config(page_title="Pool Shop Optimizer", layout="wide")
-st.title("🏗️ Hybrid Pool: Total Footage & Fallback Optimizer")
+st.set_page_config(page_title="Fiberglass Optimizer", layout="wide")
+st.title("Fiberglass Roll Optimizer")
 
 # --- 1. INVENTORY SYNC ---
 if 'inventory' not in st.session_state:
